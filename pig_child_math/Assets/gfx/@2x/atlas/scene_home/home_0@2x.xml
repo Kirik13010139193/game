@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7692d7bcc0db2bc4885c3a6fbedf470c:0935ed56d424e9ed3ed7ecd892ef9690:10ea9e0998b47238fada8bc7cc8a01f1$ -->
+<TextureAtlas imagePath="home_0@2x.png">
+    <SubTexture name="char_george_snort0001" x="991" y="280" width="168" height="180" frameX="0" frameY="-8" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0002" x="1013" y="1497" width="167" height="179" frameX="-1" frameY="-9" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0003" x="1107" y="1316" width="167" height="179" frameX="-1" frameY="-9" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0004" x="1014" y="1857" width="164" height="179" frameX="-3" frameY="-9" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0005" x="827" y="289" width="163" height="187" frameX="-4" frameY="-1" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0006" x="519" y="1855" width="164" height="188" frameX="-3" frameY="0" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0007" x="684" y="1855" width="164" height="188" frameX="-3" frameY="0" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0008" x="849" y="1855" width="164" height="188" frameX="-3" frameY="0" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0009" x="827" y="289" width="163" height="187" frameX="-4" frameY="-1" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0010" x="519" y="1855" width="164" height="188" frameX="-3" frameY="0" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0011" x="684" y="1855" width="164" height="188" frameX="-3" frameY="0" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0012" x="497" y="290" width="164" height="188" frameX="-3" frameY="0" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0013" x="662" y="290" width="164" height="188" frameX="-3" frameY="0" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0014" x="827" y="289" width="163" height="187" frameX="-4" frameY="-1" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0015" x="942" y="1316" width="164" height="180" frameX="-3" frameY="-8" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0016" x="1181" y="1496" width="165" height="179" frameX="-2" frameY="-9" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0017" x="1179" y="1857" width="167" height="178" frameX="-1" frameY="-10" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0018" x="1156" y="1033" width="167" height="179" frameX="-1" frameY="-9" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0019" x="1014" y="1677" width="167" height="179" frameX="-1" frameY="-9" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0020" x="1160" y="279" width="168" height="180" frameX="0" frameY="-8" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0021" x="1160" y="279" width="168" height="180" frameX="0" frameY="-8" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_george_snort0022" x="1329" y="279" width="168" height="180" frameX="0" frameY="-8" frameWidth="168" frameHeight="188"/>
+    <SubTexture name="char_peppa_snort0001" x="736" y="768" width="201" height="279" frameX="-6" frameY="-9" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0002" x="735" y="1101" width="206" height="279" frameX="-3" frameY="-9" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0003" x="917" y="1" width="213" height="278" frameX="0" frameY="-10" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0004" x="1131" y="1" width="213" height="277" frameX="0" frameY="-11" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0005" x="527" y="1101" width="207" height="287" frameX="-3" frameY="-1" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0006" x="527" y="812" width="208" height="288" frameX="-3" frameY="0" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0007" x="115" y="523" width="211" height="288" frameX="-1" frameY="0" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0008" x="538" y="479" width="208" height="288" frameX="-3" frameY="0" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0009" x="527" y="1101" width="207" height="287" frameX="-3" frameY="-1" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0010" x="527" y="812" width="208" height="288" frameX="-3" frameY="0" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0011" x="115" y="523" width="211" height="288" frameX="-1" frameY="0" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0012" x="327" y="523" width="210" height="288" frameX="-1" frameY="0" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0013" x="497" y="1" width="209" height="288" frameX="-1" frameY="0" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0014" x="707" y="1" width="209" height="287" frameX="-1" frameY="-1" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0015" x="1147" y="756" width="213" height="276" frameX="0" frameY="-12" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0016" x="1152" y="461" width="213" height="276" frameX="0" frameY="-12" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0017" x="942" y="1038" width="213" height="277" frameX="0" frameY="-11" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0018" x="938" y="759" width="208" height="278" frameX="-2" frameY="-10" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0019" x="947" y="477" width="204" height="278" frameX="-4" frameY="-10" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0020" x="747" y="479" width="199" height="279" frameX="-6" frameY="-9" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0021" x="747" y="479" width="199" height="279" frameX="-6" frameY="-9" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="char_peppa_snort0022" x="747" y="479" width="199" height="279" frameX="-6" frameY="-9" frameWidth="213" frameHeight="288"/>
+    <SubTexture name="corner_splat_blue_01" x="1345" y="1" width="237" height="239"/>
+    <SubTexture name="corner_splat_pink_01" x="498" y="1534" width="514" height="320"/>
+    <SubTexture name="corner_splat_yellow_01" x="115" y="1" width="381" height="521"/>
+    <SubTexture name="gen_brush_pink" x="1" y="1" width="113" height="977"/>
+    <SubTexture name="gen_pen_pink" x="421" y="1534" width="76" height="371"/>
+    <SubTexture name="home_btn_george_bg" x="1" y="1534" width="419" height="413"/>
+    <SubTexture name="home_btn_peppa_bg" x="1" y="979" width="525" height="554"/>
+    <SubTexture name="splash_blue_01" x="421" y="1906" width="97" height="115"/>
+    <SubTexture name="splash_blue_02" x="1" y="1948" width="68" height="70"/>
+    <SubTexture name="splash_pink_01" x="115" y="812" width="97" height="115"/>
+    <SubTexture name="splash_pink_02" x="70" y="1948" width="68" height="70"/>
+</TextureAtlas>

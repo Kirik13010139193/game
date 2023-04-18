@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7692d7bcc0db2bc4885c3a6fbedf470c:0935ed56d424e9ed3ed7ecd892ef9690:10ea9e0998b47238fada8bc7cc8a01f1$ -->
+<TextureAtlas imagePath="home_1@4x.png">
+    <SubTexture name="char_george_snort0002" x="220" y="241" width="222" height="238" frameX="-2" frameY="-13" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0003" x="220" y="1" width="222" height="238" frameX="-2" frameY="-13" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0004" x="660" y="480" width="218" height="238" frameX="-4" frameY="-13" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0005" x="219" y="756" width="216" height="249" frameX="-6" frameY="-2" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0006" x="1" y="505" width="217" height="250" frameX="-5" frameY="-1" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0007" x="1" y="1" width="218" height="251" frameX="-4" frameY="0" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0008" x="1" y="756" width="217" height="250" frameX="-5" frameY="-1" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0009" x="219" y="756" width="216" height="249" frameX="-6" frameY="-2" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0010" x="1" y="505" width="217" height="250" frameX="-5" frameY="-1" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0011" x="1" y="1" width="218" height="251" frameX="-4" frameY="0" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0012" x="1" y="253" width="218" height="251" frameX="-4" frameY="0" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0013" x="219" y="505" width="217" height="250" frameX="-5" frameY="-1" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0014" x="219" y="756" width="216" height="249" frameX="-6" frameY="-2" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0015" x="436" y="756" width="218" height="240" frameX="-4" frameY="-11" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0016" x="655" y="719" width="219" height="238" frameX="-3" frameY="-13" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0017" x="666" y="241" width="222" height="237" frameX="-2" frameY="-14" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0018" x="437" y="480" width="222" height="238" frameX="-2" frameY="-13" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0019" x="443" y="241" width="222" height="238" frameX="-2" frameY="-13" frameWidth="224" frameHeight="251"/>
+    <SubTexture name="char_george_snort0022" x="655" y="1" width="223" height="239" frameX="0" frameY="-12" frameWidth="224" frameHeight="251"/>
+</TextureAtlas>

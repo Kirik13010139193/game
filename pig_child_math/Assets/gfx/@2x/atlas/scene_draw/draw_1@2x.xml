@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f26df611b58a85009721b145e0024fc8:228b4bdc0d2f4201510c74325af0d15b:8cc607a7eddd60fd62619b72b4b5c9a3$ -->
+<TextureAtlas imagePath="draw_1@2x.png">
+    <SubTexture name="drawer_lower_tools_brush_fill_rainbow" x="881" y="281" width="132" height="110"/>
+    <SubTexture name="drawer_lower_tools_brush_shape0001" x="1" y="108" width="181" height="111" frameX="-11" frameY="-12" frameWidth="206" frameHeight="138"/>
+    <SubTexture name="interactive_animated_icon_george0001" x="366" y="1" width="179" height="137" frameX="-1" frameY="-1" frameWidth="184" frameHeight="142"/>
+    <SubTexture name="interactive_animated_icon_george0004" x="1" y="328" width="166" height="150" frameX="0" frameY="-1" frameWidth="170" frameHeight="154"/>
+    <SubTexture name="interactive_animated_icon_george_selected0004" x="179" y="288" width="171" height="156" frameX="-1" frameY="-1" frameWidth="176" frameHeight="160"/>
+    <SubTexture name="interactive_animated_icon_peppa0005" x="546" y="137" width="173" height="157" frameX="0" frameY="0" frameWidth="176" frameHeight="161"/>
+    <SubTexture name="stickers_icon_george0003" x="362" y="139" width="171" height="158" frameX="-1" frameY="0" frameWidth="176" frameHeight="162"/>
+    <SubTexture name="stickers_icon_george0004" x="898" y="141" width="119" height="134" frameX="-1" frameY="0" frameWidth="125" frameHeight="137"/>
+    <SubTexture name="stickers_icon_george0005" x="351" y="298" width="155" height="151" frameX="-1" frameY="-1" frameWidth="160" frameHeight="155"/>
+    <SubTexture name="stickers_icon_george0007" x="534" y="295" width="155" height="160" frameX="-1" frameY="0" frameWidth="159" frameHeight="164"/>
+    <SubTexture name="stickers_icon_george0010" x="723" y="1" width="174" height="148" frameX="0" frameY="0" frameWidth="178" frameHeight="151"/>
+    <SubTexture name="stickers_icon_george0011" x="720" y="150" width="172" height="130" frameX="-1" frameY="-1" frameWidth="177" frameHeight="134"/>
+    <SubTexture name="stickers_icon_george0013" x="1" y="479" width="143" height="133" frameX="0" frameY="-1" frameWidth="146" frameHeight="137"/>
+    <SubTexture name="stickers_icon_george_selected0004" x="898" y="1" width="123" height="139" frameX="-2" frameY="-1" frameWidth="131" frameHeight="143"/>
+    <SubTexture name="stickers_icon_george_selected0005" x="720" y="281" width="160" height="156" frameX="-1" frameY="-1" frameWidth="166" frameHeight="161"/>
+    <SubTexture name="stickers_icon_george_selected0008" x="168" y="445" width="154" height="155" frameX="-1" frameY="-1" frameWidth="160" frameHeight="160"/>
+    <SubTexture name="stickers_icon_george_selected0009" x="1" y="220" width="177" height="107" frameX="-1" frameY="-1" frameWidth="183" frameHeight="112"/>
+    <SubTexture name="stickers_icon_george_selected0010" x="183" y="134" width="178" height="153" frameX="-1" frameY="-1" frameWidth="184" frameHeight="157"/>
+    <SubTexture name="stickers_icon_george_selected0011" x="546" y="1" width="176" height="135" frameX="-2" frameY="-1" frameWidth="183" frameHeight="140"/>
+    <SubTexture name="stickers_icon_peppa0011" x="1" y="1" width="182" height="106" frameX="-1" frameY="0" frameWidth="187" frameHeight="109"/>
+    <SubTexture name="stickers_icon_peppa0014" x="184" y="1" width="181" height="132" frameX="0" frameY="-2" frameWidth="185" frameHeight="137"/>
+</TextureAtlas>

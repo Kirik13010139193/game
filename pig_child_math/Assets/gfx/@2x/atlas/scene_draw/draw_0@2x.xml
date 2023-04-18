@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f26df611b58a85009721b145e0024fc8:228b4bdc0d2f4201510c74325af0d15b:8cc607a7eddd60fd62619b72b4b5c9a3$ -->
+<TextureAtlas imagePath="draw_0@2x.png">
+    <SubTexture name="art_icon0001" x="738" y="440" width="194" height="170" frameX="0" frameY="0" frameWidth="197" frameHeight="173"/>
+    <SubTexture name="art_icon0002" x="1652" y="745" width="198" height="175" frameX="0" frameY="0" frameWidth="201" frameHeight="178"/>
+    <SubTexture name="art_icon0003" x="1552" y="1" width="200" height="176" frameX="0" frameY="0" frameWidth="203" frameHeight="179"/>
+    <SubTexture name="art_icon0004" x="1851" y="891" width="196" height="171" frameX="0" frameY="0" frameWidth="199" frameHeight="174"/>
+    <SubTexture name="art_icon0005" x="1340" y="960" width="201" height="177" frameX="0" frameY="0" frameWidth="204" frameHeight="180"/>
+    <SubTexture name="art_icon0006" x="1651" y="568" width="200" height="176" frameX="0" frameY="0" frameWidth="203" frameHeight="179"/>
+    <SubTexture name="art_icon0007" x="1652" y="921" width="197" height="172" frameX="0" frameY="0" frameWidth="200" frameHeight="175"/>
+    <SubTexture name="drawer_gen_btn_arrow0001" x="154" y="554" width="67" height="60"/>
+    <SubTexture name="drawer_gen_btn_arrow0002" x="557" y="1276" width="64" height="56" frameX="-2" frameY="-2" frameWidth="67" frameHeight="60"/>
+    <SubTexture name="drawer_gen_btn_arrow0003" x="222" y="554" width="67" height="60"/>
+    <SubTexture name="drawer_gen_btn_border" x="290" y="526" width="259" height="87"/>
+    <SubTexture name="drawer_lower_btn_up_border" x="82" y="284" width="230" height="10" frameX="-6" frameY="0" frameWidth="236" frameHeight="10"/>
+    <SubTexture name="drawer_lower_handle" x="1" y="1" width="80" height="329"/>
+    <SubTexture name="drawer_lower_tools_brush_fill_fill" x="1651" y="1701" width="132" height="110"/>
+    <SubTexture name="drawer_lower_tools_brush_shape0002" x="1542" y="1094" width="200" height="132" frameX="-2" frameY="-1" frameWidth="206" frameHeight="138"/>
+    <SubTexture name="drawer_lower_tools_bucket0001" x="700" y="1380" width="208" height="198" frameX="-12" frameY="-12" frameWidth="235" frameHeight="224"/>
+    <SubTexture name="drawer_lower_tools_bucket0002" x="354" y="847" width="226" height="215" frameX="-3" frameY="-3" frameWidth="235" frameHeight="224"/>
+    <SubTexture name="drawer_lower_tools_bucket0003" x="1852" y="568" width="192" height="157" frameX="-24" frameY="-3" frameWidth="235" frameHeight="224"/>
+    <SubTexture name="drawer_lower_tools_bucket0004" x="1158" y="1" width="198" height="191" frameX="-9" frameY="-13" frameWidth="235" frameHeight="224"/>
+    <SubTexture name="drawer_tools_art0002" x="231" y="1" width="274" height="260" frameX="-3" frameY="-2" frameWidth="283" frameHeight="267"/>
+    <SubTexture name="drawer_tools_art0004" x="1" y="617" width="274" height="259" frameX="-3" frameY="-3" frameWidth="283" frameHeight="267"/>
+    <SubTexture name="drawer_tools_brush0002" x="1652" y="428" width="298" height="139" frameX="-78" frameY="-2" frameWidth="376" frameHeight="146"/>
+    <SubTexture name="drawer_tools_bucket0002" x="298" y="1826" width="226" height="220" frameX="-2" frameY="-2" frameWidth="233" frameHeight="227"/>
+    <SubTexture name="drawer_tools_dino0002" x="1" y="1605" width="269" height="223" frameX="-3" frameY="-2" frameWidth="277" frameHeight="230"/>
+    <SubTexture name="drawer_tools_eraser0002" x="1684" y="310" width="301" height="117" frameX="-83" frameY="-9" frameWidth="389" frameHeight="135"/>
+    <SubTexture name="drawer_tools_teddy0002" x="133" y="877" width="220" height="239" frameX="-2" frameY="-2" frameWidth="227" frameHeight="245"/>
+    <SubTexture name="drawer_tools_trumpet0002" x="175" y="1380" width="260" height="223" frameX="-2" frameY="-2" frameWidth="268" frameHeight="230"/>
+    <SubTexture name="drawer_tools_wand0002" x="1" y="1132" width="228" height="247" frameX="-3" frameY="-3" frameWidth="237" frameHeight="254"/>
+    <SubTexture name="interactive_animated_icon_george0002" x="655" y="1788" width="153" height="201" frameX="-1" frameY="-1" frameWidth="158" frameHeight="205"/>
+    <SubTexture name="interactive_animated_icon_george0003" x="271" y="1604" width="165" height="221" frameX="-1" frameY="0" frameWidth="169" frameHeight="224"/>
+    <SubTexture name="interactive_animated_icon_george0005" x="1753" y="158" width="254" height="151" frameX="-1" frameY="-1" frameWidth="259" frameHeight="155"/>
+    <SubTexture name="interactive_animated_icon_george_selected0001" x="1791" y="1503" width="183" height="142" frameX="-2" frameY="-2" frameWidth="190" frameHeight="148"/>
+    <SubTexture name="interactive_animated_icon_george_selected0002" x="437" y="1591" width="157" height="206" frameX="-2" frameY="-1" frameWidth="164" frameHeight="211"/>
+    <SubTexture name="interactive_animated_icon_george_selected0003" x="506" y="1" width="169" height="225" frameX="-2" frameY="-1" frameWidth="175" frameHeight="230"/>
+    <SubTexture name="interactive_animated_icon_george_selected0005" x="1753" y="1" width="257" height="156" frameX="-3" frameY="-1" frameWidth="265" frameHeight="161"/>
+    <SubTexture name="interactive_animated_icon_peppa0001" x="1" y="1380" width="173" height="224" frameX="-1" frameY="-1" frameWidth="178" frameHeight="229"/>
+    <SubTexture name="interactive_animated_icon_peppa0002" x="436" y="1380" width="83" height="210" frameX="-1" frameY="0" frameWidth="88" frameHeight="213"/>
+    <SubTexture name="interactive_animated_icon_peppa0003" x="877" y="1209" width="156" height="168" frameX="-1" frameY="-1" frameWidth="160" frameHeight="172"/>
+    <SubTexture name="interactive_animated_icon_peppa0004" x="82" y="1" width="148" height="282" frameX="-1" frameY="-1" frameWidth="152" frameHeight="286"/>
+    <SubTexture name="interactive_animated_icon_peppa_selected0001" x="290" y="295" width="177" height="230" frameX="-2" frameY="-1" frameWidth="184" frameHeight="235"/>
+    <SubTexture name="interactive_animated_icon_peppa_selected0002" x="448" y="614" width="87" height="214" frameX="-2" frameY="-1" frameWidth="94" frameHeight="219"/>
+    <SubTexture name="interactive_animated_icon_peppa_selected0003" x="1421" y="1809" width="161" height="172" frameX="-1" frameY="-2" frameWidth="166" frameHeight="178"/>
+    <SubTexture name="interactive_animated_icon_peppa_selected0004" x="1" y="331" width="152" height="285" frameX="-2" frameY="-2" frameWidth="158" frameHeight="292"/>
+    <SubTexture name="interactive_animated_icon_peppa_selected0005" x="1583" y="1812" width="177" height="162" frameX="-1" frameY="-1" frameWidth="182" frameHeight="167"/>
+    <SubTexture name="interactive_icon_george0001" x="1541" y="1227" width="187" height="159" frameX="0" frameY="0" frameWidth="191" frameHeight="162"/>
+    <SubTexture name="interactive_icon_george0002" x="1064" y="1371" width="196" height="178" frameX="-1" frameY="0" frameWidth="200" frameHeight="181"/>
+    <SubTexture name="interactive_icon_george0003" x="1743" y="1190" width="190" height="175" frameX="-1" frameY="-1" frameWidth="194" frameHeight="179"/>
+    <SubTexture name="interactive_icon_george_selected0001" x="1852" y="726" width="191" height="164" frameX="-1" frameY="-1" frameWidth="197" frameHeight="168"/>
+    <SubTexture name="interactive_icon_george_selected0002" x="1266" y="777" width="200" height="182" frameX="-2" frameY="-1" frameWidth="206" frameHeight="187"/>
+    <SubTexture name="interactive_icon_george_selected0003" x="1357" y="1" width="194" height="181" frameX="-2" frameY="-1" frameWidth="200" frameHeight="185"/>
+    <SubTexture name="interactive_icon_peppa0001" x="1450" y="1428" width="180" height="172" frameX="-1" frameY="-1" frameWidth="185" frameHeight="176"/>
+    <SubTexture name="interactive_icon_peppa0002" x="1193" y="1171" width="196" height="178" frameX="-1" frameY="0" frameWidth="200" frameHeight="181"/>
+    <SubTexture name="interactive_icon_peppa0003" x="803" y="611" width="188" height="195"/>
+    <SubTexture name="interactive_icon_peppa_selected0001" x="965" y="1750" width="184" height="176" frameX="-2" frameY="-2" frameWidth="191" frameHeight="182"/>
+    <SubTexture name="interactive_icon_peppa_selected0002" x="1278" y="380" width="200" height="182" frameX="-2" frameY="-1" frameWidth="206" frameHeight="187"/>
+    <SubTexture name="interactive_icon_peppa_selected0003" x="975" y="208" width="188" height="195"/>
+    <SubTexture name="stickers_icon_common0001" x="595" y="1586" width="176" height="201" frameX="-1" frameY="0" frameWidth="181" frameHeight="204"/>
+    <SubTexture name="stickers_icon_common0002" x="1001" y="1" width="156" height="193" frameX="-1" frameY="-1" frameWidth="161" frameHeight="197"/>
+    <SubTexture name="stickers_icon_common0003" x="581" y="828" width="176" height="208" frameX="-1" frameY="0" frameWidth="181" frameHeight="212"/>
+    <SubTexture name="stickers_icon_common0004" x="909" y="1378" width="154" height="191" frameX="-1" frameY="-1" frameWidth="160" frameHeight="195"/>
+    <SubTexture name="stickers_icon_common0005" x="540" y="1063" width="148" height="212" frameX="-1" frameY="-2" frameWidth="155" frameHeight="218"/>
+    <SubTexture name="stickers_icon_common0006" x="536" y="614" width="132" height="213" frameX="-1" frameY="-1" frameWidth="137" frameHeight="218"/>
+    <SubTexture name="stickers_icon_common0007" x="383" y="1063" width="156" height="212" frameX="-1" frameY="-1" frameWidth="160" frameHeight="216"/>
+    <SubTexture name="stickers_icon_common0008" x="1329" y="1635" width="167" height="173" frameX="-1" frameY="-1" frameWidth="172" frameHeight="177"/>
+    <SubTexture name="stickers_icon_common0009" x="1103" y="801" width="162" height="184" frameX="-1" frameY="-1" frameWidth="167" frameHeight="188"/>
+    <SubTexture name="stickers_icon_common0010" x="468" y="262" width="168" height="226" frameX="-1" frameY="-1" frameWidth="173" frameHeight="231"/>
+    <SubTexture name="stickers_icon_common0011" x="1269" y="1461" width="180" height="173" frameX="-2" frameY="-1" frameWidth="187" frameHeight="177"/>
+    <SubTexture name="stickers_icon_common0012" x="1474" y="563" width="176" height="177" frameX="-1" frameY="0" frameWidth="182" frameHeight="180"/>
+    <SubTexture name="stickers_icon_common_selected0001" x="520" y="1380" width="179" height="205" frameX="-3" frameY="-1" frameWidth="187" frameHeight="211"/>
+    <SubTexture name="stickers_icon_common_selected0002" x="772" y="1579" width="160" height="198" frameX="-2" frameY="-1" frameWidth="167" frameHeight="203"/>
+    <SubTexture name="stickers_icon_common_selected0003" x="637" y="227" width="179" height="212" frameX="-3" frameY="-1" frameWidth="187" frameHeight="217"/>
+    <SubTexture name="stickers_icon_common_selected0004" x="758" y="820" width="158" height="196" frameX="-2" frameY="-2" frameWidth="166" frameHeight="202"/>
+    <SubTexture name="stickers_icon_common_selected0005" x="230" y="1117" width="152" height="217" frameX="-2" frameY="-3" frameWidth="161" frameHeight="223"/>
+    <SubTexture name="stickers_icon_common_selected0006" x="1" y="1829" width="136" height="218" frameX="-2" frameY="-2" frameWidth="143" frameHeight="223"/>
+    <SubTexture name="stickers_icon_common_selected0007" x="138" y="1829" width="159" height="217" frameX="-2" frameY="-1" frameWidth="166" frameHeight="223"/>
+    <SubTexture name="stickers_icon_common_selected0008" x="1479" y="376" width="171" height="177" frameX="-2" frameY="-2" frameWidth="178" frameHeight="184"/>
+    <SubTexture name="stickers_icon_common_selected0009" x="1111" y="404" width="166" height="188" frameX="-2" frameY="-1" frameWidth="173" frameHeight="194"/>
+    <SubTexture name="stickers_icon_common_selected0010" x="276" y="615" width="171" height="231" frameX="-3" frameY="-2" frameWidth="179" frameHeight="236"/>
+    <SubTexture name="stickers_icon_common_selected0011" x="1467" y="745" width="184" height="177" frameX="-3" frameY="-2" frameWidth="193" frameHeight="182"/>
+    <SubTexture name="stickers_icon_common_selected0012" x="1346" y="193" width="179" height="182" frameX="-3" frameY="-1" frameWidth="188" frameHeight="187"/>
+    <SubTexture name="stickers_icon_george0001" x="817" y="214" width="157" height="207" frameX="-1" frameY="-1" frameWidth="163" frameHeight="211"/>
+    <SubTexture name="stickers_icon_george0002" x="1286" y="1902" width="134" height="143" frameX="-1" frameY="-1" frameWidth="140" frameHeight="147"/>
+    <SubTexture name="stickers_icon_george0006" x="1497" y="1601" width="153" height="172" frameX="-1" frameY="-1" frameWidth="158" frameHeight="176"/>
+    <SubTexture name="stickers_icon_george0008" x="1390" y="1138" width="150" height="151" frameX="0" frameY="0" frameWidth="154" frameHeight="154"/>
+    <SubTexture name="stickers_icon_george0009" x="383" y="1276" width="173" height="103" frameX="0" frameY="0" frameWidth="177" frameHeight="106"/>
+    <SubTexture name="stickers_icon_george0012" x="550" y="489" width="187" height="121" frameX="-1" frameY="-1" frameWidth="192" frameHeight="125"/>
+    <SubTexture name="stickers_icon_george_selected0001" x="676" y="1" width="161" height="212" frameX="-2" frameY="-1" frameWidth="169" frameHeight="217"/>
+    <SubTexture name="stickers_icon_george_selected0002" x="1651" y="1553" width="138" height="147" frameX="-2" frameY="-2" frameWidth="146" frameHeight="153"/>
+    <SubTexture name="stickers_icon_george_selected0003" x="1761" y="1812" width="175" height="162" frameX="-2" frameY="-1" frameWidth="182" frameHeight="168"/>
+    <SubTexture name="stickers_icon_george_selected0006" x="1526" y="183" width="157" height="177" frameX="-2" frameY="-1" frameWidth="164" frameHeight="182"/>
+    <SubTexture name="stickers_icon_george_selected0007" x="1631" y="1387" width="159" height="165" frameX="-2" frameY="-1" frameWidth="165" frameHeight="170"/>
+    <SubTexture name="stickers_icon_george_selected0012" x="1850" y="1063" width="191" height="126" frameX="-2" frameY="-1" frameWidth="198" frameHeight="131"/>
+    <SubTexture name="stickers_icon_george_selected0013" x="1390" y="1290" width="147" height="137" frameX="-1" frameY="-2" frameWidth="152" frameHeight="143"/>
+    <SubTexture name="stickers_icon_peppa0001" x="817" y="214" width="157" height="207" frameX="-1" frameY="-1" frameWidth="163" frameHeight="211"/>
+    <SubTexture name="stickers_icon_peppa0002" x="1286" y="1902" width="134" height="143" frameX="-1" frameY="-1" frameWidth="140" frameHeight="147"/>
+    <SubTexture name="stickers_icon_peppa0003" x="1192" y="986" width="147" height="184" frameX="-1" frameY="0" frameWidth="152" frameHeight="187"/>
+    <SubTexture name="stickers_icon_peppa0004" x="689" y="1037" width="158" height="200" frameX="-1" frameY="-1" frameWidth="163" frameHeight="205"/>
+    <SubTexture name="stickers_icon_peppa0005" x="1164" y="193" width="181" height="186" frameX="-1" frameY="0" frameWidth="187" frameHeight="189"/>
+    <SubTexture name="stickers_icon_peppa0006" x="1144" y="593" width="172" height="183" frameX="-1" frameY="-1" frameWidth="177" frameHeight="188"/>
+    <SubTexture name="stickers_icon_peppa0007" x="1022" y="998" width="169" height="186" frameX="-1" frameY="-1" frameWidth="174" frameHeight="190"/>
+    <SubTexture name="stickers_icon_peppa0008" x="809" y="1778" width="155" height="180" frameX="-1" frameY="-1" frameWidth="160" frameHeight="184"/>
+    <SubTexture name="stickers_icon_peppa0009" x="1150" y="1727" width="178" height="174" frameX="-1" frameY="-1" frameWidth="182" frameHeight="179"/>
+    <SubTexture name="stickers_icon_peppa0010" x="1" y="877" width="131" height="254" frameX="0" frameY="0" frameWidth="134" frameHeight="258"/>
+    <SubTexture name="stickers_icon_peppa0012" x="1261" y="1350" width="128" height="110" frameX="-1" frameY="0" frameWidth="133" frameHeight="113"/>
+    <SubTexture name="stickers_icon_peppa0013" x="525" y="1798" width="129" height="204" frameX="-1" frameY="-1" frameWidth="134" frameHeight="209"/>
+    <SubTexture name="stickers_icon_peppa0015" x="1790" y="1646" width="183" height="136" frameX="-1" frameY="-1" frameWidth="187" frameHeight="140"/>
+    <SubTexture name="stickers_icon_peppa0016" x="1116" y="1550" width="152" height="176" frameX="0" frameY="0" frameWidth="155" frameHeight="179"/>
+    <SubTexture name="stickers_icon_peppa_selected0001" x="676" y="1" width="161" height="212" frameX="-2" frameY="-1" frameWidth="169" frameHeight="217"/>
+    <SubTexture name="stickers_icon_peppa_selected0002" x="1651" y="1553" width="138" height="147" frameX="-2" frameY="-2" frameWidth="146" frameHeight="153"/>
+    <SubTexture name="stickers_icon_peppa_selected0003" x="992" y="611" width="151" height="189" frameX="-2" frameY="-1" frameWidth="158" frameHeight="193"/>
+    <SubTexture name="stickers_icon_peppa_selected0004" x="838" y="1" width="162" height="206" frameX="-1" frameY="-1" frameWidth="169" frameHeight="211"/>
+    <SubTexture name="stickers_icon_peppa_selected0005" x="917" y="807" width="185" height="190" frameX="-2" frameY="-1" frameWidth="193" frameHeight="195"/>
+    <SubTexture name="stickers_icon_peppa_selected0006" x="933" y="422" width="177" height="188" frameX="-1" frameY="-1" frameWidth="183" frameHeight="194"/>
+    <SubTexture name="stickers_icon_peppa_selected0007" x="848" y="1017" width="173" height="191" frameX="-2" frameY="-2" frameWidth="180" frameHeight="196"/>
+    <SubTexture name="stickers_icon_peppa_selected0008" x="1034" y="1185" width="158" height="185" frameX="-2" frameY="-2" frameWidth="166" frameHeight="190"/>
+    <SubTexture name="stickers_icon_peppa_selected0009" x="933" y="1570" width="182" height="179" frameX="-2" frameY="-2" frameWidth="188" frameHeight="185"/>
+    <SubTexture name="stickers_icon_peppa_selected0010" x="154" y="295" width="135" height="258" frameX="-1" frameY="-1" frameWidth="140" frameHeight="264"/>
+    <SubTexture name="stickers_icon_peppa_selected0011" x="1098" y="1927" width="187" height="111" frameX="-2" frameY="-1" frameWidth="193" frameHeight="115"/>
+    <SubTexture name="stickers_icon_peppa_selected0012" x="965" y="1927" width="132" height="114" frameX="-2" frameY="-1" frameWidth="139" frameHeight="119"/>
+    <SubTexture name="stickers_icon_peppa_selected0013" x="669" y="611" width="133" height="208" frameX="-2" frameY="-2" frameWidth="140" frameHeight="215"/>
+    <SubTexture name="stickers_icon_peppa_selected0014" x="1791" y="1366" width="185" height="136" frameX="-1" frameY="-3" frameWidth="191" frameHeight="143"/>
+    <SubTexture name="stickers_icon_peppa_selected0015" x="689" y="1238" width="187" height="141" frameX="-2" frameY="-2" frameWidth="193" frameHeight="146"/>
+    <SubTexture name="stickers_icon_peppa_selected0016" x="1317" y="563" width="156" height="181" frameX="-1" frameY="-1" frameWidth="161" frameHeight="185"/>
+</TextureAtlas>

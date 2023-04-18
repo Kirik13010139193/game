@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:07bd343ee86d0bbf71ff651ca3bef9a9:3be47f386c15683a2abc113488faeb8d:35290caf66925fc2439095c03ca9467d$ -->
+<TextureAtlas imagePath="ui_0@4x.png">
+    <SubTexture name="drawer_lower_curve_fill_01" x="2007" y="1" width="25" height="1097"/>
+    <SubTexture name="drawer_lower_curve_fill_02" x="1807" y="282" width="48" height="1097"/>
+    <SubTexture name="drawer_lower_curve_fill_03" x="1726" y="594" width="20" height="1097"/>
+    <SubTexture name="drawer_lower_curve_line_01" x="1987" y="76" width="17" height="1097"/>
+    <SubTexture name="drawer_lower_curve_line_02" x="1747" y="594" width="17" height="1097"/>
+    <SubTexture name="drawer_tools_art0001" x="1" y="1099" width="352" height="333" frameX="-16" frameY="-16" frameWidth="377" frameHeight="356"/>
+    <SubTexture name="drawer_tools_art0003" x="1" y="1433" width="351" height="331" frameX="-17" frameY="-18" frameWidth="377" frameHeight="356"/>
+    <SubTexture name="drawer_tools_brush0001" x="1421" y="282" width="385" height="170" frameX="-116" frameY="-16" frameWidth="501" frameHeight="195"/>
+    <SubTexture name="drawer_tools_bucket0001" x="630" y="1099" width="282" height="273" frameX="-16" frameY="-16" frameWidth="311" frameHeight="303"/>
+    <SubTexture name="drawer_tools_dino0001" x="330" y="1765" width="340" height="274" frameX="-16" frameY="-16" frameWidth="369" frameHeight="306"/>
+    <SubTexture name="drawer_tools_eraser0001" x="1421" y="453" width="374" height="140" frameX="-125" frameY="-25" frameWidth="519" frameHeight="180"/>
+    <SubTexture name="drawer_tools_teddy0001" x="354" y="1099" width="275" height="294" frameX="-16" frameY="-16" frameWidth="303" frameHeight="326"/>
+    <SubTexture name="drawer_tools_trumpet0001" x="1" y="1765" width="328" height="278" frameX="-16" frameY="-16" frameWidth="357" frameHeight="306"/>
+    <SubTexture name="drawer_tools_wand0001" x="353" y="1433" width="294" height="306" frameX="-16" frameY="-16" frameWidth="316" frameHeight="339"/>
+    <SubTexture name="gen_small_arrow_up" x="1923" y="1" width="83" height="74"/>
+    <SubTexture name="help_arrow01" x="1856" y="95" width="130" height="251"/>
+    <SubTexture name="help_arrow02" x="1421" y="594" width="304" height="139"/>
+    <SubTexture name="help_bar_bottom" x="1" y="1" width="1921" height="36"/>
+    <SubTexture name="help_page_dot0001" x="630" y="1373" width="56" height="56"/>
+    <SubTexture name="help_page_dot0002" x="1856" y="38" width="56" height="56"/>
+    <SubTexture name="settings_bg" x="648" y="1430" width="314" height="265"/>
+    <SubTexture name="settings_btn_gen_bg" x="913" y="38" width="942" height="243"/>
+    <SubTexture name="settings_btn_george_ani0001" x="1856" y="1174" width="188" height="164" frameX="0" frameY="-10" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0002" x="763" y="622" width="187" height="163" frameX="-2" frameY="-11" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0003" x="575" y="683" width="187" height="164" frameX="-2" frameY="-11" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0004" x="577" y="848" width="184" height="164" frameX="-3" frameY="-11" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0005" x="576" y="38" width="180" height="174" frameX="-5" frameY="-1" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0006" x="417" y="282" width="182" height="174" frameX="-4" frameY="-1" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0007" x="209" y="733" width="184" height="175" frameX="-3" frameY="0" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0008" x="210" y="507" width="182" height="175" frameX="-4" frameY="0" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0009" x="394" y="683" width="180" height="174" frameX="-5" frameY="-1" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0010" x="210" y="38" width="182" height="174" frameX="-4" frameY="-1" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0011" x="209" y="909" width="184" height="175" frameX="-3" frameY="0" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0012" x="393" y="507" width="182" height="175" frameX="-4" frameY="0" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0013" x="393" y="38" width="182" height="174" frameX="-4" frameY="-1" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0014" x="394" y="683" width="180" height="174" frameX="-5" frameY="-1" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0015" x="394" y="858" width="182" height="165" frameX="-4" frameY="-10" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0016" x="600" y="282" width="186" height="164" frameX="-2" frameY="-11" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0017" x="763" y="786" width="187" height="163" frameX="-2" frameY="-12" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0018" x="576" y="457" width="187" height="164" frameX="-2" frameY="-11" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0019" x="764" y="447" width="187" height="163" frameX="-2" frameY="-11" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_ani0020" x="1856" y="1339" width="188" height="164" frameX="0" frameY="-10" frameWidth="189" frameHeight="175"/>
+    <SubTexture name="settings_btn_george_bg" x="1765" y="1504" width="229" height="228"/>
+    <SubTexture name="settings_btn_help" x="1163" y="1174" width="257" height="237"/>
+    <SubTexture name="settings_btn_home" x="671" y="1696" width="248" height="245"/>
+    <SubTexture name="settings_btn_peppa_ani0001" x="913" y="950" width="200" height="217" frameX="-6" frameY="-9" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0002" x="1114" y="950" width="206" height="216" frameX="-3" frameY="-10" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0003" x="1796" y="1733" width="213" height="216" frameX="0" frameY="-10" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0004" x="1421" y="734" width="213" height="215" frameX="0" frameY="-11" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0005" x="210" y="282" width="206" height="224" frameX="-4" frameY="-2" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0006" x="1" y="282" width="208" height="225" frameX="-3" frameY="-1" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0007" x="1165" y="1733" width="210" height="226" frameX="-2" frameY="0" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0008" x="1" y="38" width="208" height="225" frameX="-3" frameY="-1" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0009" x="210" y="282" width="206" height="224" frameX="-4" frameY="-2" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0010" x="1" y="282" width="208" height="225" frameX="-3" frameY="-1" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0011" x="1165" y="1733" width="210" height="226" frameX="-2" frameY="0" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0012" x="1376" y="1733" width="209" height="225" frameX="-2" frameY="-1" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0013" x="1586" y="1733" width="209" height="225" frameX="-2" frameY="-1" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0014" x="1" y="508" width="208" height="224" frameX="-2" frameY="-2" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0015" x="1421" y="1167" width="213" height="214" frameX="0" frameY="-12" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0016" x="1421" y="1382" width="213" height="214" frameX="0" frameY="-12" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0017" x="1208" y="1412" width="212" height="215" frameX="-1" frameY="-11" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0018" x="1" y="733" width="207" height="215" frameX="-3" frameY="-11" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0019" x="1321" y="950" width="204" height="216" frameX="-4" frameY="-10" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_ani0020" x="1526" y="950" width="198" height="216" frameX="-7" frameY="-10" frameWidth="213" frameHeight="226"/>
+    <SubTexture name="settings_btn_peppa_bg" x="913" y="1174" width="249" height="247" frameX="0" frameY="0" frameWidth="249" frameHeight="252"/>
+    <SubTexture name="settings_btn_sound0001" x="920" y="1696" width="244" height="245"/>
+    <SubTexture name="settings_btn_sound0002" x="963" y="1422" width="244" height="245"/>
+</TextureAtlas>

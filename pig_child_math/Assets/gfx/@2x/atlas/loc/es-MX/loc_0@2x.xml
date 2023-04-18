@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2047503bf0498f3743d99fd9b29edf3a:ec588d5d2565c754ece1e1558908f53b:6733d348fb1df94a481322ef31227e5b$ -->
+<TextureAtlas imagePath="loc_0@2x.png">
+    <SubTexture name="drawer_tools_done" x="1718" y="557" width="273" height="214"/>
+    <SubTexture name="end_room_logo" x="1868" y="173" width="154" height="78"/>
+    <SubTexture name="home_george_intro_txt0001" x="542" y="531" width="36" height="42" frameX="0" frameY="-367" frameWidth="641" frameHeight="409"/>
+    <SubTexture name="home_george_intro_txt0002" x="1718" y="214" width="120" height="237" frameX="0" frameY="-172" frameWidth="641" frameHeight="409"/>
+    <SubTexture name="home_george_intro_txt0003" x="1839" y="252" width="189" height="304" frameX="0" frameY="-105" frameWidth="641" frameHeight="409"/>
+    <SubTexture name="home_george_intro_txt0004" x="1" y="1159" width="257" height="346" frameX="0" frameY="-63" frameWidth="641" frameHeight="409"/>
+    <SubTexture name="home_george_intro_txt0005" x="1" y="772" width="341" height="386" frameX="0" frameY="-23" frameWidth="641" frameHeight="409"/>
+    <SubTexture name="home_george_intro_txt0006" x="1220" y="214" width="497" height="409" frameX="0" frameY="0" frameWidth="641" frameHeight="409"/>
+    <SubTexture name="home_george_intro_txt0007" x="643" y="214" width="576" height="409" frameX="0" frameY="0" frameWidth="641" frameHeight="409"/>
+    <SubTexture name="home_george_intro_txt0008" x="1" y="1" width="641" height="409"/>
+    <SubTexture name="home_peppa_intro_txt0001" x="542" y="411" width="95" height="119" frameX="0" frameY="0" frameWidth="619" frameHeight="212"/>
+    <SubTexture name="home_peppa_intro_txt0002" x="1868" y="1" width="164" height="171" frameX="0" frameY="0" frameWidth="619" frameHeight="212"/>
+    <SubTexture name="home_peppa_intro_txt0003" x="1" y="1719" width="353" height="212" frameX="0" frameY="0" frameWidth="619" frameHeight="212"/>
+    <SubTexture name="home_peppa_intro_txt0004" x="1" y="1506" width="360" height="212" frameX="0" frameY="0" frameWidth="619" frameHeight="212"/>
+    <SubTexture name="home_peppa_intro_txt0005" x="1" y="411" width="540" height="212" frameX="0" frameY="0" frameWidth="619" frameHeight="212"/>
+    <SubTexture name="home_peppa_intro_txt0006" x="1263" y="1" width="604" height="212" frameX="0" frameY="0" frameWidth="619" frameHeight="212"/>
+    <SubTexture name="home_peppa_intro_txt0007" x="643" y="1" width="619" height="212"/>
+</TextureAtlas>

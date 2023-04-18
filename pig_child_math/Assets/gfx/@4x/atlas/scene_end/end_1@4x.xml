@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:265a88bb99339781170679d55f303ffd:eeaeb4872589510d6013a7e89dc409ba:39c3edec04fc98e33f5999da64a6b081$ -->
+<TextureAtlas imagePath="end_1@4x.png">
+    <SubTexture name="done_menu_btn_back0001" x="497" y="736" width="235" height="217" frameX="0" frameY="0" frameWidth="240" frameHeight="221"/>
+    <SubTexture name="done_menu_btn_back0002" x="931" y="1657" width="232" height="214" frameX="0" frameY="0" frameWidth="240" frameHeight="221"/>
+    <SubTexture name="done_menu_btn_save0001" x="1338" y="1" width="235" height="217" frameX="0" frameY="0" frameWidth="240" frameHeight="221"/>
+    <SubTexture name="done_menu_btn_save0002" x="1148" y="1411" width="232" height="214" frameX="0" frameY="0" frameWidth="240" frameHeight="221"/>
+    <SubTexture name="end_room_chair_01" x="253" y="323" width="185" height="249"/>
+    <SubTexture name="end_room_chair_02" x="254" y="1" width="185" height="249"/>
+    <SubTexture name="end_room_chair_03" x="252" y="965" width="185" height="248"/>
+    <SubTexture name="end_room_chair_04" x="438" y="965" width="185" height="248"/>
+    <SubTexture name="end_room_chair_05" x="439" y="251" width="185" height="248"/>
+    <SubTexture name="end_room_chars_george0004" x="440" y="1" width="229" height="235"/>
+    <SubTexture name="end_room_chars_george0005" x="497" y="500" width="229" height="235"/>
+    <SubTexture name="end_room_chars_george0006" x="727" y="473" width="226" height="235" frameX="-1" frameY="0" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0007" x="898" y="1" width="222" height="235" frameX="-1" frameY="0" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0009" x="497" y="1214" width="218" height="234" frameX="0" frameY="-1" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0010" x="733" y="709" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0011" x="497" y="1449" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0012" x="497" y="1683" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0013" x="714" y="1449" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0014" x="716" y="1189" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0015" x="842" y="943" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0016" x="950" y="709" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0017" x="954" y="473" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0018" x="1079" y="237" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0019" x="1121" y="1" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0020" x="714" y="1683" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0021" x="714" y="1683" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0022" x="931" y="1423" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0023" x="933" y="1177" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0024" x="1059" y="943" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0025" x="1167" y="707" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0026" x="1171" y="471" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0027" x="1296" y="235" width="216" height="233" frameX="0" frameY="-2" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0028" x="624" y="954" width="217" height="234" frameX="0" frameY="-1" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0030" x="855" y="237" width="223" height="235" frameX="0" frameY="0" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0031" x="670" y="1" width="227" height="235" frameX="0" frameY="0" frameWidth="229" frameHeight="235"/>
+    <SubTexture name="end_room_chars_george0032" x="625" y="237" width="229" height="235"/>
+    <SubTexture name="end_room_chars_peppa0013" x="1" y="323" width="251" height="321" frameX="-7" frameY="-2" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0014" x="1" y="967" width="250" height="320" frameX="-9" frameY="-3" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0015" x="249" y="1609" width="247" height="319" frameX="-12" frameY="-4" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0016" x="252" y="645" width="244" height="319" frameX="-15" frameY="-4" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0017" x="252" y="645" width="244" height="319" frameX="-15" frameY="-4" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0018" x="252" y="645" width="244" height="319" frameX="-15" frameY="-4" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0019" x="252" y="645" width="244" height="319" frameX="-15" frameY="-4" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0020" x="252" y="645" width="244" height="319" frameX="-15" frameY="-4" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0021" x="252" y="645" width="244" height="319" frameX="-15" frameY="-4" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0022" x="252" y="645" width="244" height="319" frameX="-15" frameY="-4" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0023" x="252" y="645" width="244" height="319" frameX="-15" frameY="-4" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0024" x="252" y="645" width="244" height="319" frameX="-15" frameY="-4" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0025" x="252" y="645" width="244" height="319" frameX="-15" frameY="-4" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0026" x="252" y="645" width="244" height="319" frameX="-15" frameY="-4" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0027" x="252" y="645" width="244" height="319" frameX="-15" frameY="-4" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0028" x="250" y="1288" width="246" height="319" frameX="-13" frameY="-4" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0029" x="1" y="1609" width="247" height="320" frameX="-12" frameY="-3" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0030" x="1" y="1288" width="248" height="320" frameX="-10" frameY="-3" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0031" x="1" y="645" width="250" height="321" frameX="-8" frameY="-2" frameWidth="259" frameHeight="323"/>
+    <SubTexture name="end_room_chars_peppa0032" x="1" y="1" width="252" height="321" frameX="-6" frameY="-2" frameWidth="259" frameHeight="323"/>
+</TextureAtlas>

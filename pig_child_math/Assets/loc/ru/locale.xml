@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+	<!-- Home Screen -->
+	<!-- Values in seconds for ME (trigger_01) or GEORGE (trigger_02) -->
+	<snd id="home_vo_trigger_01">2</snd>
+	<snd id="home_vo_trigger_02">3</snd>
+	
+	<!-- Settings Modal -->
+	<txt id="opt_paint_peppa"><![CDATA[Paint with Peppa]]></txt>
+	<txt id="opt_paint_george"><![CDATA[Paint with George]]></txt>
+	<txt id="opt_help"><![CDATA[Помощь]]></txt>
+	<txt id="opt_home"><![CDATA[Главная]]></txt>
+	<txt id="opt_sound_on"><![CDATA[Звук вкл.]]></txt>
+	<txt id="opt_sound_off"><![CDATA[Звук выкл.]]></txt>
+	
+	<!-- Done Screen -->
+	<txt id="done_pic_saved"><![CDATA[Сохранено]]></txt>
+	<txt id="done_menu_save"><![CDATA[<font size="52">Сохранить</font>]]></txt>
+	<txt id="done_menu_back"><![CDATA[Назад]]></txt>
+	
+	<txt id="default_image_name"><![CDATA[Paintbox_<num>]]></txt>
+	
+	<!-- Help Screen -->
+	<txt id="help_title"><![CDATA[Помощь]]></txt>
+	<txt id="help_page_01" type="html"><![CDATA[Выбери друга для рисования — <br/>Пеппу или Джорджа]]></txt>
+	<txt id="help_page_02" type="html">
+		<![CDATA[
+			Выбери инструмент из ящичка<br/>и начни создавать свой шедевр.<br/>
+			<font size="20"> <br/></font>
+			Есть кисти, краски в баночках,<br/>
+			стикеры и особые<br/>инструменты!
+		]]>
+	</txt>
+	<txt id="help_page_03" type="html">
+		<![CDATA[
+			Если что-то не получится,<br/>
+			просто сотри ошибку ластиком. <br/>
+		]]>
+	</txt>
+	<txt id="help_page_04" type="html">
+		<![CDATA[
+			В конце нажми «ГОТОВО»,<br/>
+			чтобы увидеть свою картинку на<br/>
+			собственной выставке!
+		]]>
+	</txt>
+	
+	<txt id="splash_01" type="html">
+		<![CDATA[
+			Разработано Kids Industries.
+			Peppa Pig © Astley Baker Davies Ltd/
+			Entertainment One UK Limited 2003.
+			Все права защищены.
+		]]>
+	</txt>
+</locale>
